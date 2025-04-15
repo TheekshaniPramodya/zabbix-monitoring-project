@@ -2,6 +2,7 @@
 ![zabbix](https://i.ibb.co/zW20mNcb/Screenshot-2025-04-15-191835.png)
 ![agent](https://i.ibb.co/sdJ58TGp/Screenshot-2025-04-15-192056.png)
 ![hostdone](https://i.ibb.co/B57k9kqT/Screenshot-2025-04-15-191741.png)
+
 This project documents the complete process of installing and configuring **Zabbix 7.0** on **Ubuntu Server 22.04.5** using **MySQL** as the backend. It includes installation commands, configuration files, trigger templates, and alerting via **Gmail SMTP**.
 
 ---
