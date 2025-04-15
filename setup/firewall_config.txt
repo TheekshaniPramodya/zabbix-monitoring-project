@@ -1,0 +1,8 @@
+# Enable and allow SSH
+sudo ufw allow ssh
+sudo ufw allow http
+sudo ufw allow https
+sudo ufw enable
+
+# Allow ICMP (ping)
+sudo ufw allow proto icmp

@@ -1,0 +1,7 @@
+*.sql
+*.log
+*.gz
+*.bak
+*.pid
+.env
+secrets.txt
